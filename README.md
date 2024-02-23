@@ -3,7 +3,7 @@ Calculadora simple con salida formateada para mostrar separador de miles
 
 Este es un proyecto sencillo donde se crea una calculadora que suma dos numeros ingresados por teclado y muestre el resultado con formato de separador de miles
 
-
+~~~python
 """
 Este es un programa que recibe dos valotes por teclado
 suma los valores recibidos
@@ -21,3 +21,4 @@ z = x + y
 
 # Se muestra el resultado de la suma con formato de separador de miles
 print(f"El resultado es: {z:,}")
+~~~
