@@ -1,4 +1,4 @@
-# calculadoraformato
+# Calculadora con formato de separador de miles
 Calculadora simple con salida formateada para mostrar separador de miles
 
 Este es un proyecto sencillo donde se crea una calculadora que suma dos numeros ingresados por teclado y muestre el resultado con formato de separador de miles
